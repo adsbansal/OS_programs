@@ -1,4 +1,4 @@
-// LOOK
+// c-LOOK
 #include<bits/stdc++.h>
 using namespace std;
 
